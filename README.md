@@ -1,6 +1,6 @@
 # What is OpaStart ?
 
-OpaStart is an MVC template project to kick start your [Opa](http://opalang.org) webapp.
+[OpaStart](https://github.com/Aqua-Ye/OpaStart) is an MVC template project to kick start your [Opa](http://opalang.org) webapp.
 
 It is designed to respond to the need from small to big projects.
 
