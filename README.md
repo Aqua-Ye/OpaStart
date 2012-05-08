@@ -18,6 +18,6 @@ Inspired by HTML5 Boilerplate, and personal experience in Opa dev :)
 
 ## How to use OpaStart ?
 
-- Fork the repo
-- Adapt to your needs
-- make
+1. Fork the repo
+2. Adapt to your needs
+3. make
