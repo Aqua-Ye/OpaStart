@@ -1,0 +1,5 @@
+- improve Makefile so it does not recomplie plugins every time
+- test suite
+- include bootstrap plugins ?
+- generate project ?
+- a more advance default style ? HTML ?
