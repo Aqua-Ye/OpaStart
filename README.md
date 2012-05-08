@@ -20,3 +20,4 @@ Inspired by HTML5 Boilerplate, and personal experience in Opa dev :)
 
 - Fork the repo
 - Adapt to your needs
+- make

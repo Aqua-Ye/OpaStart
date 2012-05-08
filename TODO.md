@@ -1,3 +1,4 @@
+- describe the project structure
 - improve Makefile so it does not recomplie plugins every time
 - test suite
 - include bootstrap plugins ?
