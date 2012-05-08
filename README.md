@@ -6,7 +6,7 @@ It is designed to respond to the need from small to big projects.
 
 Inspired by HTML5 Boilerplate, and personal experience in Opa dev :)
 
-## Reqirements
+## Requirements
 
 - [Opa](https://github.com/MLstate/opalang)
 - [RECESS](https://github.com/twitter/recess)
