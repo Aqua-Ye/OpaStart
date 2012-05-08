@@ -8,12 +8,15 @@ Inspired by HTML5 Boilerplate, and personal experience in Opa dev :)
 
 # Reqirements
 
-- Opa
-- Recess
+- [Opa](https://github.com/MLstate/opalang)
+- [RECESS](https://github.com/twitter/recess)
 
-# What does OpaStart include by default ?
+# What does OpaStart include/import by default ?
 
-- Twitter Boostrap
-- Modernizr
+- [Twitter Boostrap](https://github.com/twitter/bootstrap)
+- [Modernizr](https://github.com/Modernizr/Modernizr)
 
 # How to use OpaStart ?
+
+- Fork the repo
+- Adapt to your needs
